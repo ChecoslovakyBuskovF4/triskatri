@@ -63,3 +63,18 @@
 [17Jun2025 19:36:24.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EggoNup lost connection: Disconnected
 [17Jun2025 19:36:24.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EggoNup left the game
 [17Jun2025 19:36:28.303] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: EggoNup (/127.123.13.37:48755) lost connection: Disconnected
+[17Jun2025 19:42:27.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EggoNup[/127.123.13.37:60621] logged in with entity id 777 at (59.044571533114166, 76.0, -14.503851766107857)
+[17Jun2025 19:42:27.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EggoNup joined the game
+[17Jun2025 19:43:48.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EggoNup lost connection: Disconnected
+[17Jun2025 19:43:48.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EggoNup left the game
+[17Jun2025 19:45:08.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jun2025 19:45:08.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jun2025 19:45:08.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jun2025 19:45:08.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jun2025 19:45:08.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jun2025 19:45:08.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jun2025 19:45:08.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jun2025 19:45:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jun2025 19:45:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jun2025 19:45:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jun2025 19:45:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
